@@ -10,13 +10,13 @@ geracao = 0
 TELA_LARGURA = 500
 TELA_ALTURA = 800
 
-IMAGEM_CANO = pygame.transform.scale2x(pygame.image.load(os.path.join('D:\Dados\Programação Projetos\Python\Flappy Bird IA\imgs\pipe.png')))
-IMAGEM_CHAO = pygame.transform.scale2x(pygame.image.load(os.path.join('D:\Dados\Programação Projetos\Python\Flappy Bird IA\imgs\case.png')))
-IMAGEM_BACKGROUND = pygame.transform.scale2x(pygame.image.load(os.path.join('D:\Dados\Programação Projetos\Python\Flappy Bird IA\imgs\cg.png')))
+IMAGEM_CANO = pygame.transform.scale2x(pygame.image.load(os.path.join('D:\Dados\Programação Projetos\Python\FlappyBirdAI\imgs\pipe.png')))
+IMAGEM_CHAO = pygame.transform.scale2x(pygame.image.load(os.path.join('D:\Dados\Programação Projetos\Python\FlappyBirdAI\imgs\case.png')))
+IMAGEM_BACKGROUND = pygame.transform.scale2x(pygame.image.load(os.path.join('D:\Dados\Programação Projetos\Python\FlappyBirdAI\imgs\cg.png')))
 IMAGENS_PASSARO = [
-    pygame.transform.scale2x(pygame.image.load(os.path.join('D:\Dados\Programação Projetos\Python\Flappy Bird IA\imgs\cird1.png'))),
-    pygame.transform.scale2x(pygame.image.load(os.path.join('D:\Dados\Programação Projetos\Python\Flappy Bird IA\imgs\cird2.png'))),
-    pygame.transform.scale2x(pygame.image.load(os.path.join('D:\Dados\Programação Projetos\Python\Flappy Bird IA\imgs\cird3.png'))),
+    pygame.transform.scale2x(pygame.image.load(os.path.join('D:\Dados\Programação Projetos\Python\FlappyBirdAI\imgs\cird1.png'))),
+    pygame.transform.scale2x(pygame.image.load(os.path.join('D:\Dados\Programação Projetos\Python\FlappyBirdAI\imgs\cird2.png'))),
+    pygame.transform.scale2x(pygame.image.load(os.path.join('D:\Dados\Programação Projetos\Python\FlappyBirdAI\imgs\cird3.png'))),
 
 ]
 
